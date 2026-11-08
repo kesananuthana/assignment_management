@@ -1,0 +1,802 @@
+[
+  {
+    "course_id": "CRS-2026-0001",
+    "course_code": "CS0001",
+    "course_name": "Course 0001",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2025-12-10T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0002",
+    "course_code": "CS0002",
+    "course_name": "Course 0002",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2025-07-22T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0003",
+    "course_code": "CS0003",
+    "course_name": "Course 0003",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-09-08T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0004",
+    "course_code": "CS0004",
+    "course_name": "Course 0004",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-06-07T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0005",
+    "course_code": "CS0005",
+    "course_name": "Course 0005",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-10-01T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0006",
+    "course_code": "CS0006",
+    "course_name": "Course 0006",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-09-02T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0007",
+    "course_code": "CS0007",
+    "course_name": "Course 0007",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-06-25T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0008",
+    "course_code": "CS0008",
+    "course_name": "Course 0008",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2025-11-09T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0009",
+    "course_code": "CS0009",
+    "course_name": "Course 0009",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2025-09-19T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0010",
+    "course_code": "CS0010",
+    "course_name": "Course 0010",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2025-09-10T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0011",
+    "course_code": "CS0011",
+    "course_name": "Course 0011",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-01-15T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0012",
+    "course_code": "CS0012",
+    "course_name": "Course 0012",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-06-14T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0013",
+    "course_code": "CS0013",
+    "course_name": "Course 0013",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-09-30T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0014",
+    "course_code": "CS0014",
+    "course_name": "Course 0014",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-03-28T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0015",
+    "course_code": "CS0015",
+    "course_name": "Course 0015",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2025-12-07T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0016",
+    "course_code": "CS0016",
+    "course_name": "Course 0016",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2026-02-01T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0017",
+    "course_code": "CS0017",
+    "course_name": "Course 0017",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-09-01T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0018",
+    "course_code": "CS0018",
+    "course_name": "Course 0018",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-07-19T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0019",
+    "course_code": "CS0019",
+    "course_name": "Course 0019",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-08-30T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0020",
+    "course_code": "CS0020",
+    "course_name": "Course 0020",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2025-12-18T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0021",
+    "course_code": "CS0021",
+    "course_name": "Course 0021",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-01-13T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0022",
+    "course_code": "CS0022",
+    "course_name": "Course 0022",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2026-08-15T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0023",
+    "course_code": "CS0023",
+    "course_name": "Course 0023",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-02-21T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0024",
+    "course_code": "CS0024",
+    "course_name": "Course 0024",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-08-18T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0025",
+    "course_code": "CS0025",
+    "course_name": "Course 0025",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-02-11T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0026",
+    "course_code": "CS0026",
+    "course_name": "Course 0026",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-07-30T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0027",
+    "course_code": "CS0027",
+    "course_name": "Course 0027",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-01-05T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0028",
+    "course_code": "CS0028",
+    "course_name": "Course 0028",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2025-09-11T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0029",
+    "course_code": "CS0029",
+    "course_name": "Course 0029",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2025-07-15T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0030",
+    "course_code": "CS0030",
+    "course_name": "Course 0030",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-03-27T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0031",
+    "course_code": "CS0031",
+    "course_name": "Course 0031",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-05-03T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0032",
+    "course_code": "CS0032",
+    "course_name": "Course 0032",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-09-30T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0033",
+    "course_code": "CS0033",
+    "course_name": "Course 0033",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-08-25T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0034",
+    "course_code": "CS0034",
+    "course_name": "Course 0034",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-06-12T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0035",
+    "course_code": "CS0035",
+    "course_name": "Course 0035",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-01-30T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0036",
+    "course_code": "CS0036",
+    "course_name": "Course 0036",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2025-09-19T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0037",
+    "course_code": "CS0037",
+    "course_name": "Course 0037",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-03-29T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0038",
+    "course_code": "CS0038",
+    "course_name": "Course 0038",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2025-09-03T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0039",
+    "course_code": "CS0039",
+    "course_name": "Course 0039",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-09-30T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0040",
+    "course_code": "CS0040",
+    "course_name": "Course 0040",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-09-14T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0041",
+    "course_code": "CS0041",
+    "course_name": "Course 0041",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2025-07-06T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0042",
+    "course_code": "CS0042",
+    "course_name": "Course 0042",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2025-09-11T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0043",
+    "course_code": "CS0043",
+    "course_name": "Course 0043",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-04-30T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0044",
+    "course_code": "CS0044",
+    "course_name": "Course 0044",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2025-09-23T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0045",
+    "course_code": "CS0045",
+    "course_name": "Course 0045",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2025-07-21T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0046",
+    "course_code": "CS0046",
+    "course_name": "Course 0046",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2026-02-05T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0047",
+    "course_code": "CS0047",
+    "course_name": "Course 0047",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2025-07-27T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0048",
+    "course_code": "CS0048",
+    "course_name": "Course 0048",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-09-17T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0049",
+    "course_code": "CS0049",
+    "course_name": "Course 0049",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2025-12-09T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0050",
+    "course_code": "CS0050",
+    "course_name": "Course 0050",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2025-06-24T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0051",
+    "course_code": "CS0051",
+    "course_name": "Course 0051",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2025-09-24T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0052",
+    "course_code": "CS0052",
+    "course_name": "Course 0052",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-03-19T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0053",
+    "course_code": "CS0053",
+    "course_name": "Course 0053",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2026-02-23T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0054",
+    "course_code": "CS0054",
+    "course_name": "Course 0054",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-02-09T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0055",
+    "course_code": "CS0055",
+    "course_name": "Course 0055",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2025-10-26T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0056",
+    "course_code": "CS0056",
+    "course_name": "Course 0056",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2025-10-15T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0057",
+    "course_code": "CS0057",
+    "course_name": "Course 0057",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2025-11-08T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0058",
+    "course_code": "CS0058",
+    "course_name": "Course 0058",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-05-12T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0059",
+    "course_code": "CS0059",
+    "course_name": "Course 0059",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2026-04-24T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0060",
+    "course_code": "CS0060",
+    "course_name": "Course 0060",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2025-07-31T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0061",
+    "course_code": "CS0061",
+    "course_name": "Course 0061",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2025-10-01T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0062",
+    "course_code": "CS0062",
+    "course_name": "Course 0062",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2026-07-03T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0063",
+    "course_code": "CS0063",
+    "course_name": "Course 0063",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-01-19T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0064",
+    "course_code": "CS0064",
+    "course_name": "Course 0064",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-02-06T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0065",
+    "course_code": "CS0065",
+    "course_name": "Course 0065",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2026-02-13T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0066",
+    "course_code": "CS0066",
+    "course_name": "Course 0066",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2025-11-05T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0067",
+    "course_code": "CS0067",
+    "course_name": "Course 0067",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-09-13T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0068",
+    "course_code": "CS0068",
+    "course_name": "Course 0068",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2025-10-13T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0069",
+    "course_code": "CS0069",
+    "course_name": "Course 0069",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2025-10-23T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0070",
+    "course_code": "CS0070",
+    "course_name": "Course 0070",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2025-08-01T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0071",
+    "course_code": "CS0071",
+    "course_name": "Course 0071",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2025-08-21T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0072",
+    "course_code": "CS0072",
+    "course_name": "Course 0072",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-02-23T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0073",
+    "course_code": "CS0073",
+    "course_name": "Course 0073",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-07-17T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0074",
+    "course_code": "CS0074",
+    "course_name": "Course 0074",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-05-30T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0075",
+    "course_code": "CS0075",
+    "course_name": "Course 0075",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2025-11-25T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0076",
+    "course_code": "CS0076",
+    "course_name": "Course 0076",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-01-18T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0077",
+    "course_code": "CS0077",
+    "course_name": "Course 0077",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2026-08-18T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0078",
+    "course_code": "CS0078",
+    "course_name": "Course 0078",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-03-09T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0079",
+    "course_code": "CS0079",
+    "course_name": "Course 0079",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2025-08-16T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0080",
+    "course_code": "CS0080",
+    "course_name": "Course 0080",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-04-25T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0081",
+    "course_code": "CS0081",
+    "course_name": "Course 0081",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2025-11-26T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0082",
+    "course_code": "CS0082",
+    "course_name": "Course 0082",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-09-27T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0083",
+    "course_code": "CS0083",
+    "course_name": "Course 0083",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2025-09-29T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0084",
+    "course_code": "CS0084",
+    "course_name": "Course 0084",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2026-03-22T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0085",
+    "course_code": "CS0085",
+    "course_name": "Course 0085",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-08-31T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0086",
+    "course_code": "CS0086",
+    "course_name": "Course 0086",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-07-16T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0087",
+    "course_code": "CS0087",
+    "course_name": "Course 0087",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-01-24T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0088",
+    "course_code": "CS0088",
+    "course_name": "Course 0088",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-03-10T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0089",
+    "course_code": "CS0089",
+    "course_name": "Course 0089",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-08-13T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0090",
+    "course_code": "CS0090",
+    "course_name": "Course 0090",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-02-02T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0091",
+    "course_code": "CS0091",
+    "course_name": "Course 0091",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2025-08-21T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0092",
+    "course_code": "CS0092",
+    "course_name": "Course 0092",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-03-10T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0093",
+    "course_code": "CS0093",
+    "course_name": "Course 0093",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-03-27T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0094",
+    "course_code": "CS0094",
+    "course_name": "Course 0094",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2025-07-01T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0095",
+    "course_code": "CS0095",
+    "course_name": "Course 0095",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-04-15T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0096",
+    "course_code": "CS0096",
+    "course_name": "Course 0096",
+    "department": "IT",
+    "status": "active",
+    "created_at": "2025-08-13T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0097",
+    "course_code": "CS0097",
+    "course_name": "Course 0097",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2026-09-07T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0098",
+    "course_code": "CS0098",
+    "course_name": "Course 0098",
+    "department": "CSE",
+    "status": "active",
+    "created_at": "2025-11-02T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0099",
+    "course_code": "CS0099",
+    "course_name": "Course 0099",
+    "department": "EEE",
+    "status": "active",
+    "created_at": "2026-01-11T12:00:00+05:30"
+  },
+  {
+    "course_id": "CRS-2026-0100",
+    "course_code": "CS0100",
+    "course_name": "Course 0100",
+    "department": "ECE",
+    "status": "active",
+    "created_at": "2026-02-02T12:00:00+05:30"
+  }
+]

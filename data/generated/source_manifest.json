@@ -1,0 +1,76 @@
+{
+  "seed": 20261022,
+  "generated_at_utc": "2026-11-08T08:33:13.819897+00:00",
+  "tables": {
+    "course": {
+      "rows": 100,
+      "csv": "course.csv",
+      "json": "course.json"
+    },
+    "learner": {
+      "rows": 10000,
+      "csv": "learner.csv",
+      "json": "learner.json"
+    },
+    "enrollment": {
+      "rows": 20032,
+      "csv": "enrollment.csv",
+      "json": "enrollment.json"
+    },
+    "assignment": {
+      "rows": 1000,
+      "csv": "assignment.csv",
+      "json": "assignment.json"
+    },
+    "rubric": {
+      "rows": 1000,
+      "csv": "rubric.csv",
+      "json": "rubric.json"
+    },
+    "rubric_criterion": {
+      "rows": 4000,
+      "csv": "rubric_criterion.csv",
+      "json": "rubric_criterion.json"
+    },
+    "submission": {
+      "rows": 32307,
+      "csv": "submission.csv",
+      "json": "submission.json"
+    },
+    "submission_artifact": {
+      "rows": 31998,
+      "csv": "submission_artifact.csv",
+      "json": "submission_artifact.json"
+    },
+    "grade": {
+      "rows": 30000,
+      "csv": "grade.csv",
+      "json": "grade.json"
+    },
+    "feedback": {
+      "rows": 120000,
+      "csv": "feedback.csv",
+      "json": "feedback.json"
+    },
+    "resubmission": {
+      "rows": 2307,
+      "csv": "resubmission.csv",
+      "json": "resubmission.json"
+    },
+    "appeal": {
+      "rows": 1034,
+      "csv": "appeal.csv",
+      "json": "appeal.json"
+    },
+    "workflow_event": {
+      "rows": 33341,
+      "csv": "workflow_event.csv",
+      "json": "workflow_event.json"
+    }
+  },
+  "validation": {
+    "passed": 12,
+    "total": 12
+  },
+  "provenance": "Fully synthetic records; no external personal data or external datasets."
+}

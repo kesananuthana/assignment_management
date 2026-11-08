@@ -1,0 +1,14 @@
+{
+  "seed": 20261022,
+  "scale": {
+    "courses": 100,
+    "learners": 10000,
+    "assignments": 1000,
+    "submissions": 30000
+  },
+  "timezone": "Asia/Kolkata",
+  "late_penalty_per_day_pct": 5,
+  "max_late_penalty_pct": 25,
+  "resubmission_window_days": 7,
+  "output_dir": "data/generated"
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "record_type": "submission",
+    "record_id": "SUB-ASN-2026-000001-LRN-2026-000273-01",
+    "issue_type": "unenrolled_learner",
+    "expected_decision": "reject_submission_or_flag_enrollment",
+    "severity": "high"
+  },
+  {
+    "record_type": "grade",
+    "record_id": "GRD-SUB-ASN-2026-000002-LRN-2026-009134-01",
+    "issue_type": "grade_exceeds_rubric_max",
+    "expected_decision": "block_grade_release",
+    "severity": "high"
+  },
+  {
+    "record_type": "grade",
+    "record_id": "GRD-SUB-ASN-2026-000003-LRN-2026-005132-01",
+    "issue_type": "late_penalty_applied_twice",
+    "expected_decision": "apply_penalty_once_and_reconcile",
+    "severity": "medium"
+  },
+  {
+    "record_type": "appeal",
+    "record_id": "APP-2026-000001",
+    "issue_type": "grade_change_without_audit",
+    "expected_decision": "quarantine_change_until_audit_event_exists",
+    "severity": "high"
+  }
+]

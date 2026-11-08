@@ -1,0 +1,5 @@
+record_type,record_id,issue_type,expected_decision,severity
+submission,SUB-ASN-2026-000001-LRN-2026-000273-01,unenrolled_learner,reject_submission_or_flag_enrollment,high
+grade,GRD-SUB-ASN-2026-000002-LRN-2026-009134-01,grade_exceeds_rubric_max,block_grade_release,high
+grade,GRD-SUB-ASN-2026-000003-LRN-2026-005132-01,late_penalty_applied_twice,apply_penalty_once_and_reconcile,medium
+appeal,APP-2026-000001,grade_change_without_audit,quarantine_change_until_audit_event_exists,high

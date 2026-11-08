@@ -1,0 +1,13 @@
+check,passed,detail
+course_primary_key_unique,True,100 rows; 0 duplicates
+learner_primary_key_unique,True,10000 rows; 0 duplicates
+assignment_primary_key_unique,True,1000 rows; 0 duplicates
+submission_primary_key_unique,True,32307 rows; 0 duplicates
+grade_primary_key_unique,True,30000 rows; 0 duplicates
+assignment_course_fk,True,All assignments reference courses
+submission_assignment_fk,True,All submissions reference assignments
+submission_learner_fk,True,All submissions reference learners
+artifact_submission_fk,True,All artifacts reference submissions
+enrollment_integrity_except_labelled_anomaly,True,1 enrollment exceptions; 1 intentionally labelled
+grade_max_except_labelled_anomaly,True,1 over-maximum grades; 1 intentionally labelled
+ground_truth_separate,True,Ground truth is exported separately; row issue labels are retained for anomaly tracing

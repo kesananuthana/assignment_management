@@ -1,0 +1,62 @@
+[
+  {
+    "check": "course_primary_key_unique",
+    "passed": true,
+    "detail": "100 rows; 0 duplicates"
+  },
+  {
+    "check": "learner_primary_key_unique",
+    "passed": true,
+    "detail": "10000 rows; 0 duplicates"
+  },
+  {
+    "check": "assignment_primary_key_unique",
+    "passed": true,
+    "detail": "1000 rows; 0 duplicates"
+  },
+  {
+    "check": "submission_primary_key_unique",
+    "passed": true,
+    "detail": "32307 rows; 0 duplicates"
+  },
+  {
+    "check": "grade_primary_key_unique",
+    "passed": true,
+    "detail": "30000 rows; 0 duplicates"
+  },
+  {
+    "check": "assignment_course_fk",
+    "passed": true,
+    "detail": "All assignments reference courses"
+  },
+  {
+    "check": "submission_assignment_fk",
+    "passed": true,
+    "detail": "All submissions reference assignments"
+  },
+  {
+    "check": "submission_learner_fk",
+    "passed": true,
+    "detail": "All submissions reference learners"
+  },
+  {
+    "check": "artifact_submission_fk",
+    "passed": true,
+    "detail": "All artifacts reference submissions"
+  },
+  {
+    "check": "enrollment_integrity_except_labelled_anomaly",
+    "passed": true,
+    "detail": "1 enrollment exceptions; 1 intentionally labelled"
+  },
+  {
+    "check": "grade_max_except_labelled_anomaly",
+    "passed": true,
+    "detail": "1 over-maximum grades; 1 intentionally labelled"
+  },
+  {
+    "check": "ground_truth_separate",
+    "passed": true,
+    "detail": "Ground truth is exported separately; row issue labels are retained for anomaly tracing"
+  }
+]

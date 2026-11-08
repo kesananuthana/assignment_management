@@ -1,0 +1,4 @@
+# Core generator uses only the Python standard library.
+# Optional PostgreSQL support:
+psycopg[binary]>=3.2,<4
+python-dotenv>=1.0,<2
